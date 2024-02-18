@@ -45,3 +45,16 @@ html, body{
     font-size: 20px;
     font-weight: 600;
 }
+
+/* Cores de Texto */
+.color-orange{
+    color: coral;
+}
+
+.color-gray-1{
+    color: #2b2b2b;
+}
+
+.color-gray-2{
+    color: #545454;
+}
