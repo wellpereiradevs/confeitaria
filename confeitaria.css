@@ -87,8 +87,24 @@ html, body{
 }
 
 /* Imagem */
-.image{
+image{
     width: 100%;
     height: 100%;
     object-fit: cover;
+}
+
+/* Botão */
+button{
+    padding: 10px 20px;
+    background: chocolate;
+    color: #fff;
+    font-size: 14px;
+    border: none;
+    transition: 0.3s ease;
+}
+
+button:hover{
+    border: 1px solid coral;
+    background: #fff;
+    color: coral;
 }
